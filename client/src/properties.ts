@@ -1,0 +1,1 @@
+export const ApiEndpoint = 'https://photo-share-app0.herokuapp.com';
